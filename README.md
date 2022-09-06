@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SabinaFotij 
-- 👀 I’m interested in FrontDevlopment - HTML, CSS, JS.
+- 👀 I’m interested in HTML, CSS and Python.
 - 🌱 I’m currently learning this programming languages
 - 💞️ I’m looking to collaborate on making web pages (very creativ!!!) :) 
 - 📫 Write to me on email: sabinafotij@gmail.com 
